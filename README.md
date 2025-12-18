@@ -1,3 +1,7 @@
+- [CHANGELOG](CHANGELOG.md)
+- [LICENSE](LICENSE.md)
+
+
 **Table of contents**
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
