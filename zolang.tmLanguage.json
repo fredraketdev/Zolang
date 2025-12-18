@@ -1,7 +1,7 @@
 {
   "name": "Zolang",
   "scopeName": "source.zolang",
-  "fileTypes": ["zl"],
+  "fileTypes": ["zolang", "zl"],
   "patterns": [
     {
       "name": "comment.line.double-slash.zolang",
