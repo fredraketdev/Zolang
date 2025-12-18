@@ -1,5 +1,5 @@
 - [CHANGELOG](CHANGELOG.md)
-- [LICENSE](LICENSE.md)
+- [LICENSE](LICENSE)
 
 
 **Table of contents**
