@@ -2,6 +2,11 @@
 
 All notable changes to Zolang will be documented in this file.
 
+## [1.1.0] - 2025-12-18 - Syntax Highlighting
+### Added
+- syntax highlighting
+- VS Code support
+
 ## [1.0.0] – 2025-12-18 – First Stable Release 🎉
 ### Added
 - Variables (`verander x naar ...`)
