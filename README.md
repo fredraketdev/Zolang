@@ -130,7 +130,8 @@
 
 
 ## Custom Features
-- Translate easter eggs. (see Changelog V 2.1 for first tip)
+- Translate easter eggs.
+  - `toon.translate`
 
 ## Examples
 - Basic examples:
